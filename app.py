@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 
 # =====================================================
-# st.image("ảnh quán trà sữa.png")
+# st.image("IMG_1208.jpeg")
 # =====================================================
 st.set_page_config(
     page_title="Quán Trà Sữa - Tính Hóa Đơn",
