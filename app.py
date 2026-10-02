@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 
 # =====================================================
-# CẤU HÌNH TRANG - PHẢI ĐẶT TRƯỚC CÁC LỆNH STREAMLIT KHÁC
+# st.image("ảnh quán trà sữa.png")
 # =====================================================
 st.set_page_config(
     page_title="Quán Trà Sữa - Tính Hóa Đơn",
