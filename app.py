@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import 
-st.image("ảnh quán trà sữa.png")
+st.image("ảnh quán trà sữa.png.jpg")
 # =========================
 # CẤU HÌNH TRANG
 # =========================
